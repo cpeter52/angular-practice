@@ -16,7 +16,7 @@ import { Component } from '@angular/core';
 
 export class CoursesComponent {
     title = 'List of courses';
-    title2 = `3 Authors`
+    title2 = `3 Authors`;
     courses;
     authors;
 
